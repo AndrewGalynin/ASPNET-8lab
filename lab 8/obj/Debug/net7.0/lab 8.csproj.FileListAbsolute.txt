@@ -1,0 +1,7 @@
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.AssemblyInfoInputs.cache
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.AssemblyInfo.cs
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.csproj.CoreCompileInputs.cache
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.RazorAssemblyInfo.cache
+D:\ASP .NET\lab 8\obj\Debug\net7.0\lab 8.RazorAssemblyInfo.cs
